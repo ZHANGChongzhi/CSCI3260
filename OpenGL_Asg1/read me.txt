@@ -1,0 +1,6 @@
+Control instruction:
+
+W&S - adjust the perspecive fovy;
+A&D - transform the pyramid;
+Q - rotate the pyramid around Y-axis;
+E - Scale the pyramid.
